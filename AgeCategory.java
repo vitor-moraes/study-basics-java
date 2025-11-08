@@ -19,7 +19,7 @@ public class AgeCategory {
         } else {
             System.out.println("Hello " + name + "! You're a senior citizen.");
         }
-        
+    
         scanner.close();
     }
 }
