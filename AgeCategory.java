@@ -11,7 +11,7 @@ public class AgeCategory {
         int age = scanner.nextInt();
         scanner.nextLine();
         System.out.println("Name: " + name + ", Age: " + age);
-        
+
         if (age < 18) {
             System.out.println("Hello " + name + "! You're underage.");
         } else if (age <= 59) {
@@ -19,7 +19,7 @@ public class AgeCategory {
         } else {
             System.out.println("Hello " + name + "! You're a senior citizen.");
         }
-    
+
         scanner.close();
     }
 }
