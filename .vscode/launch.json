@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "basics_44b45586"
+    },
+    {
+      "type": "java",
+      "name": "Debug Main Class",
+      "request": "launch",
+      "mainClass": "${file}",
+      "console": "integratedTerminal",
+      "args": ""
+    }
+  ]
+}

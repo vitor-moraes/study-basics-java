@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    // 🧠 Core Java support
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-gradle",
+
+    // ⚙️ Code quality & feedback
+    "SonarSource.sonarlint-vscode",
+    "usernamehw.errorlens",
+
+    // 🧩 Productivity & Git tools
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "waderyan.gitblame",
+    "seatonjiang.gitmoji-vscode",
+
+    // 💻 Environment & run helpers
+    "ms-vscode-remote.remote-wsl",
+    "formulahendry.code-runner",
+
+    // 🎨 UI & formatting
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+
+    // 🗒️ Utilities
+    "mikestead.dotenv",
+    "tomoki1207.pdf"
+  ]
+}
