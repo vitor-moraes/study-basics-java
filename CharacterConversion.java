@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class CharacterConversion {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a word: ");
         String word = scanner.nextLine();
@@ -12,7 +12,7 @@ public class CharacterConversion {
         int number = scanner.nextInt();
         String numberString = Integer.toString(number);
         System.out.println("As string: " + numberString);
-        System.out.println("As integer + 1: " + (number + 1)w);
+        System.out.println("As integer + 1: " + (number + 1));
         scanner.close();
     }
 }
