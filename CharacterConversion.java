@@ -12,7 +12,7 @@ public class CharacterConversion {
         int number = scanner.nextInt();
         String numberString = Integer.toString(number);
         System.out.println("As string: " + numberString);
-        System.out.println("As integer + 1: " + (number + 1));
+        System.out.println("As integer + 1: " + (number + 1)w);
         scanner.close();
     }
 }
